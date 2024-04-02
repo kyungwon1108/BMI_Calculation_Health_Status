@@ -1,0 +1,9 @@
+BMI: 25.64891761567662, Status: Overweight
+BMI: 21.513858510523864, Status: Normal weight
+BMI: 29.303638979167772, Status: Overweight
+BMI: 23.73323840037973, Status: Normal weight
+BMI: 17.020514198692105, Status: Underweight
+BMI: 19.467401285583104, Status: Normal weight
+BMI: 15.844273426889997, Status: Underweight
+BMI: 17.31341036546351, Status: Underweight
+BMI: 33.15043438500228, Status: Obese
